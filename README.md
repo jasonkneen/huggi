@@ -2,6 +2,8 @@
 
 Initial Betas of Huggi apps drop here
 
+HUGGI AGENT DESKTOP
+
 - macOS https://github.com/jasonkneen/huggi/releases/download/0.5.0/Huggi.Agent-0.5.0-arm64.dmg
 - macOS https://github.com/jasonkneen/huggi/releases/download/0.5.0/Huggi.Agent-0.5.0.dmg
 

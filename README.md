@@ -2,7 +2,12 @@
 
 Initial Betas of Huggi apps drop here
 
-STACKS by HUGGI
+
+
+# STACKS by HUGGI
+![G-UNlhjWAAEcjnD](https://github.com/user-attachments/assets/8d32d3ab-9246-4555-9595-2fb52cbe39c8)
+![G-DwfCpW8AAjAut](https://github.com/user-attachments/assets/5373e3cf-96b2-4b5a-a634-e7456cb4d482)
+
 
 - macOS https://github.com/jasonkneen/stacks/releases/download/v0.2.9/Stacks-0.2.9-arm64.dmg
 - macOS https://github.com/jasonkneen/stacks/releases/download/v0.2.9/Stacks-0.2.9.dmg
